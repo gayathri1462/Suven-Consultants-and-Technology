@@ -12,4 +12,6 @@ Project Blog: https://gayathri1462.medium.com/analysing-movie-reviews-using-sent
 ### 2.Data Analytics using Python Coding Projects
 #### (i) Performing Analysis of Meteorological Data
 
-The main objective of this project is to perform data cleaning on weather data, perform analysis for testing the (given) Hypothesis and finally put-forth a conclusion.
+The main objective is to perform data cleaning, perform analysis for testing the Influences of Global Warming on temperature and humidity, and finally put forth a conclusion.
+
+Project Blog: https://gayathri1462.medium.com/performing-analysis-of-meteorological-data-9db091151261
